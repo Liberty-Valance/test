@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Display "Good day!" if the hour is less than 18:00:</p>
+
+<p id="demo">Good Something!</p>
+
+<script>
+if (document.getElementsByClassName("wrapper")){
+   document.getElementById("demo").innerHTML = "Good day!";
+}
+</script>
+
+</body>
+</html>
+
+
+-------------------------------------------------------------------------------------------------------
+
+ <style type="text/css">
+.page-content .clear{clear:both;}
+.page-content .left{float:left;margin:0px 20px 15px 0px;}
+.page-content .border{border: 1px solid #EBEBEB;}
+.page-content {padding: 0 25px;}
+.page-content hr {margin: 25px 0;border: none;border-top:1px solid #EBEBEB;}
+
+.page-title {border: 0;padding: 0;margin: 20px 0 15px;}
+.page-title h1 {color: #005288;text-transform: uppercase;font-family: "Times New Roman",serif;font-size: 27px;}
+.page-content h2 {color: #F47D31;text-transform: uppercase;margin-bottom: 10px;font-family: "Times New Roman",serif;}
+.page-content p {color: #545454;font-size: 14px;}
+
+.page-content .note-msg {font-size: 12px;background: #f9f9f9;border: 1px solid #EBEBEB;line-height: 18px;margin: 0px 0px 20px;padding: 5px 19px;}
+
+.page-content .blocks {list-style:none;padding:0px;margin:0px 0px 4px;width:700px;}
+.page-content .blocks li{color: #545454;font-size: 14px;float:left;padding:0px 0px 5px 0px;width:225px;display:block;}
+.page-content .blocks li span{font-family: "Times New Roman",serif;color: #005288;}
+
+
+.page-content .form_wrapper {background: #f9f9f9;border: 1px solid #EBEBEB;padding: 0px 0px 15px 0px;list-style:none;width: 690px;}
+.page-content .form_wrapper li{width: 320px;float:left;margin:0px 0px 10px;}
+.page-content .form_wrapper li.sub{margin:0px 0px 10px;}
+.page-content .form_wrapper li label{width: 80px;margin:0px 10px 0px 0px;display: block;float: left;font-size: 11px;font-weight: bold;
+color:#444;text-align:right}
+.page-content .form_wrapper li input{width: 220px;}
+.page-content .form_wrapper li textarea{width: 220px;height:70px;}
+.page-content .form_wrapper li p.required{width: 175px;float: left;font-size: 12px;color: red;margin: 10px 10px 0px;}
+.page-content .form_wrapper li button{float:right;margin:0px 4px 0px 0px;}
+.page-content .form_wrapper li.form-title {color:#005288;text-transform: uppercase;font-family: "Times New Roman",serif;font-size: 16px;
+width: 650px;
+margin: 0px 0px 15px 15px;}
+
+.titleh1 {
+  color: #005288;
+  text-transform: uppercase;
+  font-family: "Times New Roman",serif;
+  font-size: 27px;
+padding: 0 25px;
+}
+
+.adcopy {
+  text-align: center;
+ font-size: 16pt;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  text-align: center;
+ font-size: 14px;
+font-family: Arial, Helvetica, sans-serif;
+color: #545454;
+padding: 0 25px;
+}
+
+</style>
+<center><h1 class="titleh1">Wholesale Shaving Brushes - Perma Brands <h1></center>
+<section class="adcopy">
+<p>Please fill in the from below, to get started!<p>
+</section>
+
+
+
+<div id='crmWebToEntityForm' style='width:600px;margin:auto;'>
+   <META HTTP-EQUIV ='content-type' CONTENT='text/html;charset=UTF-8'>
+   <form action='https://crm.zoho.com/crm/WebToLeadForm' name=WebToLeads1207738000000191007 method='POST' onSubmit='javascript:document.charset="UTF-8"; return checkMandatory()' accept-charset='UTF-8'>
+
+	 <!-- Do not remove this code. -->
+	<input type='text' style='display:none;' name='xnQsjsdp' value='afa58297e83f5d74c5123b5cf569d714ec436a1bab8bae4f2f98bf63e43eee70'/>
+	<input type='hidden' name='zc_gad' id='zc_gad' value=''/>
+	<input type='text' style='display:none;' name='xmIwtLD' value='efc300af49dafea59dbd6d255f0e108404b4fb999d8f57ce34d17cbed26014cc'/>
+	<input type='text' style='display:none;'  name='actionType' value='TGVhZHM='/>
+
+	<input type='text' style='display:none;' name='returnURL' value='https&#x3a;&#x2f;&#x2f;permabrands.com&#x2f;landing-success' /> 
+	 <!-- Do not remove this code. -->
+	<input type='text' style='display:none;' id='ldeskuid' name='ldeskuid'></input>
+	<input type='text' style='display:none;' id='LDTuvid' name='LDTuvid'></input>
+	 <!-- Do not remove this code. -->
+	<style>
+		tr , td { 
+			padding:6px;
+			border-spacing:0px;
+			border-width:0px;
+			}
+	</style>
+	<table style='width:600px;background-color:white;color:black'>
+
+	<tr><td colspan='2' style='text-align:left;color:black;font-family:Arial;font-size:14px;'><strong>Shaving Brush Form</strong></td></tr>
+
+	<tr><td  style='nowrap:nowrap;text-align:left;font-size:12px;font-family:Arial;width:200px;'>First Name<span style='color:red;'>*</span></td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='40' name='First Name' /></td></tr>
+
+	<tr><td  style='nowrap:nowrap;text-align:left;font-size:12px;font-family:Arial;width:200px;'>Last Name<span style='color:red;'>*</span></td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='80' name='Last Name' /></td></tr>
+
+	<tr><td  style='nowrap:nowrap;text-align:left;font-size:12px;font-family:Arial;width:200px;'>Company</td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='100' name='Company' /></td></tr>
+
+	<tr><td  style='nowrap:nowrap;text-align:left;font-size:12px;font-family:Arial;width:200px;'>Email<span style='color:red;'>*</span></td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='100' name='Email' /></td></tr>
+
+	<tr><td colspan='2' style='text-align:center; padding-top:15px;'>
+		<input style='font-size:12px;color:#131307' type='submit' value='Submit' />
+		<input type='reset' style='font-size:12px;color:#131307' value='Reset' />
+	    </td>
+	</tr>
+   </table>
+	<script>
+ 	  var mndFileds=new Array('First Name','Last Name','Email');
+ 	  var fldLangVal=new Array('First Name','Last Name','Email');
+
+ 	  function checkMandatory() {
+		var name='';
+		var email='';
+		for(i=0;i<mndFileds.length;i++) {
+		  var fieldObj=document.forms['WebToLeads1207738000000191007'][mndFileds[i]];
+		  if(fieldObj) {
+			if (((fieldObj.value).replace(/^\s+|\s+$/g, '')).length==0) {
+			  alert(fldLangVal[i] +' cannot be empty'); 
+   	   	  	  fieldObj.focus();
+   	   	  	  return false;
+			}  else if(fieldObj.nodeName=='SELECT') {
+  	   	   	 if(fieldObj.options[fieldObj.selectedIndex].value=='-None-') {
+				alert(fldLangVal[i] +' cannot be none'); 
+				fieldObj.focus();
+				return false;
+			   }
+			} else if(fieldObj.type =='checkbox'){
+ 	 	 	 if(fieldObj.checked == false){
+				alert('Please accept  '+fldLangVal[i]);
+				fieldObj.focus();
+				return false;
+			   } 
+			 } 
+			 try {
+			     if(fieldObj.name == 'Last Name') {
+				name = fieldObj.value;
+ 	 	 	    }
+			} catch (e) {}
+		    }
+		}
+		 try {
+		    if($zoho) {
+			var LDTuvidObj = document.forms['WebToLeads1207738000000191007']['LDTuvid'];
+			if(LDTuvidObj) {
+  	  	 	    LDTuvidObj.value = $zoho.salesiq.visitor.uniqueid();
+			}
+			var firstnameObj = document.forms['WebToLeads1207738000000191007']['First Name'];
+			if(firstnameObj) {
+			     name = firstnameObj.value +' '+name;
+			}
+			$zoho.salesiq.visitor.name(name);
+			var emailObj = document.forms['WebToLeads1207738000000191007']['Email'];
+			if(emailObj) {
+			     email = emailObj.value;
+			     $zoho.salesiq.visitor.email(email);
+			}
+		    }
+		} catch(e) {}
+	     }
+	   </script><script type='text/javascript'>var $zoho= $zoho || {salesiq:{values:{},ready:function(){$zoho.salesiq.floatbutton.visible('hide');}}};var d=document;s=d.createElement('script');s.type='text/javascript';s.defer=true;s.src='https://salesiq.zoho.com/permabrands/float.ls?embedname=permabrands';t=d.getElementsByTagName('script')[0];t.parentNode.insertBefore(s,t);</script>
+	</form>
+</div><script src='https://crm.zoho.com/crm/javascript/zcga.js'></script>
+
+<img src="{{media url="wysiwyg/pb_banners/SBlanding_1.JPG"}}" alt="" />
+<script src='https://crm.zoho.com/crm/javascript/zcga.js'></script>
+
+-------------------------------------------------------------------------------------------------------
+Design 
+
+ <reference name="left">
+            <block type="cms/block" name="three-easy-ways">
+                <action method="setBlockId"><block_id>three_easy_ways</block_id></action>
+            </block>
+            <block type="cms/block" name="why-perma-brands">
+                <action method="setBlockId"><block_id>why_perma_brands</block_id></action>
+            </block>
+        </reference>
+
+
+
+        For a perfect start in the morning, after a late night out, this ultra fresh gel gives a shock treatment to your tired skin. Specially formulated to give immediate stretching and firming effect. Size: 75 ml / 2.60 fl oz. Description: Ultra fresh gel with booster effect Action: Reactivates and stimulates the skin's natural processes Key ingredients: Caffeine for stimulating effect, Soy protein for radiance and softness and Coffee berry for stretching effect. 
+        Skin type: Tired skin, In case of emergency!!! 
+        
+        Ingredients: Aqua (Water), Tritcum Vulgare (Wheat) Protein, Alcohol Denat, Propylene Glycol, Hydrolyzed Soy Protein, Caffeine, Coffea Arabica (Coffee) Seed Extract, Dimethicone, Caprylic/ Capric Triglyceride, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tromethamine, Hamamelis Virginiana (Witch Hazel) Extract, Menthoxpropanediol, Parfum (Fragrance), Menthol, Phenoxyethanol, Methylparaben, Ethylparaben, Butylpraben, Isobutylparaben, Propylparaben, CI 42090 (Blue1), Methylchloroisothiazolinone, CI 19140 (Yellow 5), Methylisothiazolonone, Butylphenyl Methylpropional, Geraniol, Linalool, Limonene..
